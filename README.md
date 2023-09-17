@@ -11,3 +11,5 @@
 ## Description
 
 Implement joystick control in Pixiv using the HTML5 Gamepad API.
+
+<img src="https://github.com/SynRGB/Pixiv-JoystickControl/raw/main/%23README/example.png"/>
