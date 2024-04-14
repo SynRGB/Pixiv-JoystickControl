@@ -1,3 +1,6 @@
+> [!WARNING]
+> 実用性がないと判断されたため、`2023 年 9 月 17 日` (`v1.0`) をもってアーカイブされ、メンテナンスは行われなくなりました。ウェブサイトが更新されるにつれて、互換性の問題が発生する可能性がありますので、ご注意ください。
+
 <div align="center">
     <img src="https://github.com/SynRGB/Pixiv-JoystickControl/raw/main/%23README/icon/256.png" width="20%"/>
     <h1>Pixiv-コントローラー制御 <code>v1.0</code></h1>
