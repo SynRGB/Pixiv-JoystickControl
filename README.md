@@ -1,3 +1,6 @@
+> [!WARNING]
+> Archived and no longer maintained since `September 17, 2023` (`v1.0`) due to impracticality. Please note that compatibility issues may arise as websites update.
+
 <div align="center">
     <img src="https://github.com/SynRGB/Pixiv-JoystickControl/raw/main/%23README/icon/256.png" width="20%"/>
     <h1>Pixiv-JoystickControl <code>v1.0</code></h1>
