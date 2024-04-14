@@ -1,5 +1,5 @@
 > [!WARNING]
-> Archived and no longer maintained since `September 17, 2023` (`v1.0`) due to impracticality. Please note that compatibility issues may arise as websites update.
+> Archived and no longer maintained since `Sep 17, 2023` (`v1.0`) due to impracticality. Please note that compatibility issues may arise as websites update.
 
 <div align="center">
     <img src="https://github.com/SynRGB/Pixiv-JoystickControl/raw/main/%23README/icon/256.png" width="20%"/>
