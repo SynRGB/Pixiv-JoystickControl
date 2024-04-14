@@ -1,3 +1,6 @@
+> [!WARNING]
+> 因为发现不实用，自 `2023 年 9 月 17 日` (`v1.0`) 起归档，不再维护。请注意，随着网站的更新，可能会存在兼容性问题。
+
 <div align="center">
     <img src="https://github.com/SynRGB/Pixiv-JoystickControl/raw/main/%23README/icon/256.png" width="20%"/>
     <h1>Pixiv-摇杆控制 <code>v1.0</code></h1>
